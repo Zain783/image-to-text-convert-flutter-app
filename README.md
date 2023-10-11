@@ -37,12 +37,8 @@ Acknowledgments
 The Image to Text Converter App is powered by the google_mlkit_text_recognition package, part of Google's ML Kit for Firebase, which enables text recognition capabilities on mobile devices.
 
 Support
-If you have any questions or encounter issues while using the app, please feel free to contact our support team at support@example.com.
+If you have any questions or encounter issues while using the app, please feel free to contact our support team at gillanizain90@gmail.com
 
-Author
-Your Name
-Download
-Download on Google Play
-Download on the App Store
+
 
 Replace the placeholders like "link_to_app_icon," "link_to_author_profile," "link_to_google_play_download_button," and "link_to_app_store_download_button" with the actual URLs and information relevant to your app. This description provides an overview of your app's functionality, its features, and how to use it. Users visiting your GitHub page will find this information useful when considering your app.
