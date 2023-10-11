@@ -1,4 +1,4 @@
-mage to Text Converter App
+Image to Text Converter Flutter App 
 App Icon
 
 Overview
